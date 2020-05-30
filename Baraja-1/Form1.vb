@@ -9,7 +9,7 @@
         ipalo = Int(Rnd() * 4)
         icarta = Int(Rnd() * 13)
 
-        TextBox1.Text = carta(icarta) + " de " + palo(ipalo)
+        TextBox1.Text = carta(icarta) + " de  " + palo(ipalo)
 
 
     End Sub

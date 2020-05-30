@@ -21,7 +21,7 @@
             Case 5
                 MsgBox(itenmnombre)
             Case Else
-                MsgBox("Seleciona un valor correcto")
+                MsgBox("Seleciona un valor correcto.")
 
         End Select
 
